@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Simon Stückelberger
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoc Political Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Goethe-University Frankfurt 
+  url: https://www.fb03.uni-frankfurt.de/42585499/Dr__Simon_St%C3%BCckelberger
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.

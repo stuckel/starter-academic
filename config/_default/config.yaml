@@ -56,9 +56,6 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
-goldmark: 
-renderer: 
-unsafe: true 
   _merge: deep
 related:
   threshold: 80
@@ -69,3 +66,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,5 +1,16 @@
-Datenschutzerklärung
-================
+---
+title: Privacy Policy
+date: "2021-08-05T00:00:00+01:00"
+draft: false
+share: false
+commentable: false
+editable: false
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
 Diese Datenschutzerklärung betrifft die App „Simon’s 2nd app“, welche
 genutzt wird, um auf die Facebook Werbebibliothek zu Wahlwerbung bzw.
@@ -12,3 +23,4 @@ wissenschaftlichen Zwecken.
 
 Datenschutzverantwortlicher Simon Stückelberger Uhlandstrasse 60 60314
 Frankfurt am Main
+

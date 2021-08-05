@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Datenschutzerklärung
 date: "2021-08-05T00:00:00+01:00"
 draft: false
 share: false
